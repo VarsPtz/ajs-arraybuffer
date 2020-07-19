@@ -1,4 +1,4 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/o2m1bp6v8i9wr7du?svg=true)](https://ci.appveyor.com/project/VarsPtz/ajs-arraybuffer-math)
+[![Build status](https://ci.appveyor.com/api/projects/status/52q9eo9bwi8rktei?svg=true)](https://ci.appveyor.com/project/VarsPtz/ajs-arraybuffer)
 # Домашнее задание к лекции «`ArrayBuffer`»
 
 **Важно**: каждая задача выполняется в виде отдельного проекта с собственным GitHub репозиторием.
